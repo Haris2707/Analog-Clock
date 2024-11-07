@@ -1,4 +1,4 @@
-## **Analog Watch Project**
+## ****Analog Watch Project****
 
 **Overview**<br>
 This project is a fully functional **Analog Watch** built using HTML, CSS, and JavaScript. The watch dynamically displays the current time with moving hour, minute, and second hands.
