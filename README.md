@@ -25,3 +25,11 @@ analog-watch/
 ├── script.js          # JavaScript logic for the watch  
 └── README.md          # Project documentation  
 
+**How it works**  
+- The watch face is created using HTML and styled with CSS to give it an analog look.  
+- JavaScript calculates the current time using the `Date` object.  
+- The rotation of the watch hands is dynamically adjusted based on the time:  
+   - **Hour hand**: Rotates 30° per hour.  
+   - **Minute hand**: Rotates 6° per minute.  
+   - **Second hand**: Rotates 6° per second.
+
